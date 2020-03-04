@@ -1,0 +1,18 @@
+
+
+.navbar {
+	background: black;
+	-o-transition: all .6s; -moz-transition: all .6s; -webkit-transition: all .6s; -ms-transition: all .6s; transition: all .6s;
+	backface-visibility: hidden;
+}
+
+.carousel .item {
+  height: 300px;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
